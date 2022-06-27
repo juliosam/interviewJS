@@ -1,0 +1,12 @@
+body{
+    width: 100vw;
+}
+
+.container{
+    width: 30%;
+    margin: 0 auto;
+}
+
+/* .capitalized{
+    text-transform:capitalize;
+} */
